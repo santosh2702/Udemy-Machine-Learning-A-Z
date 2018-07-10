@@ -2,10 +2,10 @@
 
 ![the-future-of-machine-learning-is-in-finance](https://user-images.githubusercontent.com/29937202/42225404-25ff61e8-7efa-11e8-849e-046c410c801b.jpg)
 
-#### By:Kirill Eremenko
+#### [By:Kirill Eremenko]
  Data Scientist & Forex Systems Expert
  
- ## Content
+ ## [Content]
  ~~~
 •Welcome to the course!
  
